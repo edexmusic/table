@@ -1,0 +1,13 @@
+.paginationNumbers {
+    list-style: none;
+}
+.paginationNumbers {
+    text-decoration: none;
+}
+.paginationTable {
+    display: flex;
+    justify-content: center;
+}
+.paginationTable li:nth-child(2) {
+    margin-left: 5px;
+}
